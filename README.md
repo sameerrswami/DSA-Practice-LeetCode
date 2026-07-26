@@ -12,4 +12,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0994-rotting-oranges) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
