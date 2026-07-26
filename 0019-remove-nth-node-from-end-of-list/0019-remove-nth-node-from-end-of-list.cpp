@@ -8,23 +8,21 @@ public:
             c++;
             t=t->next;
         }
-        if(c==1)return nullptr;
+        if (c == n) {
+            ListNode* temp = head;
+            head = head->next;
+            delete temp;
+            return head;
+        }
         n=c-n;
         t=head;
         int i=1;
-        while(t && t->next){
+        while(t){
             if(i==n){
                 ListNode*temp = t->next;
-                if(temp->next==nullptr){
-                    t->next=nullptr;
-                    delete temp;
-                    return head;
-                }
-                else{
                     t->next=temp->next;
                     delete temp;
                     return head;
-                }
             }
             i++;
             t=t->next;
