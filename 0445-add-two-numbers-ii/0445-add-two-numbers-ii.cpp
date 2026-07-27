@@ -4,7 +4,6 @@ public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         stack<int> s1;
         stack<int> s2;
-        stack<int> s3;
         ListNode* t1=l1;
         while(t1){
             s1.push(t1->val);
@@ -15,8 +14,7 @@ public:
             s2.push(t1->val);
             t1=t1->next;
         }
-        ListNode* dummy = new ListNode(0);
-        ListNode* temp=dummy;
+        ListNode* temp=nullptr;
         int carry=0;
         while(!s1.empty() || !s2.empty() || carry){
             int a=(s1.empty())?0:s1.top();
@@ -25,16 +23,10 @@ public:
             if(!s2.empty())s2.pop();
             int s=a+b+carry;
             carry=s/10;
-            s=s%10;
-            s3.push(s);
+            ListNode* node = new ListNode(s % 10);
+            node->next = temp;
+            temp = node;
         }
-        while(!s3.empty()){
-            int a=s3.top();
-            s3.pop();
-            ListNode* node=new ListNode(a);
-            temp->next=node;
-            temp=temp->next;
-        }
-        return dummy->next;
+        return temp;
     }
 };
