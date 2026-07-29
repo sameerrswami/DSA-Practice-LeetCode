@@ -109,4 +109,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0020-valid-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/1143-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
