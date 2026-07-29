@@ -1,10 +1,7 @@
 class Solution {
 public:
-
     // if we wont use a dp table then it will give TLE 
-    
     //now we would use a seprate dp table to store calculated value earlier
-
     int solve(string &text1, string &text2, int i, int j,vector<vector<int>>& dp) {
         if(i == text1.size() || j == text2.size()) return 0; // base case and have to stop if i and j exceeds the size of the string
         if(dp[i][j] != -1) return dp[i][j]; // if value is calculated earlier than we have to return that value
