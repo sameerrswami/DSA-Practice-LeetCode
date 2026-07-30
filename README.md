@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0015-3sum) |
 | [0496-next-greater-element-i](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0994-rotting-oranges) |
 ## Breadth-First Search
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/1143-longest-common-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
