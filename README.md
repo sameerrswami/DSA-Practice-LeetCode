@@ -37,16 +37,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0015-3sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0994-rotting-oranges) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Prefix Sum
 |  |
