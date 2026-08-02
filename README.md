@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0491-non-decreasing-subsequences](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0491-non-decreasing-subsequences](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
@@ -154,9 +156,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 <!---LeetCode Topics End-->
