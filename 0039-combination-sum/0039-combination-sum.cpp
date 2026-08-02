@@ -1,16 +1,14 @@
 class Solution {
 public:
     void subsets(vector<vector<int>> &ans,vector<int> &cands,vector<int> &temp,int t,int ind){
-        int s=0;
-        for(int c:temp) s+=c;
-        if(s==t){
+        if(t==0){
             ans.push_back(temp);
             return;
         }
-        if(s>t)return;
+        if(t<0)return;
         for(int i=ind;i<cands.size();i++){
             temp.push_back(cands[i]);
-            subsets(ans,cands,temp,t,i);
+            subsets(ans,cands,temp,t-cands[i],i);
             temp.pop_back();
         }
     }
