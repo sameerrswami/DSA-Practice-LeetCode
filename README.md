@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0509-fibonacci-number) |
 ## Array
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0445-add-two-numbers-ii) |
