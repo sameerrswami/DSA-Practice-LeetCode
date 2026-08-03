@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0784-letter-case-permutation](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0784-letter-case-permutation) |
 | [1143-longest-common-subsequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -164,12 +165,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0090-subsets-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0784-letter-case-permutation](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0090-subsets-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0491-non-decreasing-subsequences) |
+| [0784-letter-case-permutation](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0784-letter-case-permutation) |
 ## Tree
 |  |
 | ------- |
