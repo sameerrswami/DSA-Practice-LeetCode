@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0491-non-decreasing-subsequences](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0494-target-sum) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
