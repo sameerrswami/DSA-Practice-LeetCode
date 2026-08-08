@@ -34,17 +34,18 @@ public:
             temp=temp->next;
             c++;
         }
-        ListNode* prevNode=reverseKGroup(temp,k);
+        ListNode* nextGroup=reverseKGroup(temp,k);
         temp=head;
         c=0;
+        ListNode* prev=nextGroup;
         while(c<k){
-            ListNode* next=temp->next;
-            temp->next=prevNode;
-            prevNode=temp;
-            temp=next;
+            ListNode* front=temp->next;
+            temp->next=prev;
+            prev=temp;
+            temp=front;
             c++;
         }
-        return prevNode;
+        return prev;
     }
 
     // ListNode* reverseKGroup(ListNode* head, int k) {
