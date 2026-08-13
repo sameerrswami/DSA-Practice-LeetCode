@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0040-combination-sum-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0042-trapping-rain-water) |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
