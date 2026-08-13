@@ -34,6 +34,6 @@ public:
         if (lists.empty())
             return nullptr;
 
-        return solve(lists, 0, lists.size() - 1);
+        return solve(lists, 0, lists.size() - 1);   
     }
 };
