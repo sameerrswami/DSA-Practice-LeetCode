@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
