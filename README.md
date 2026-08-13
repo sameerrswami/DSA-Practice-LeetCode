@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0085-maximal-rectangle) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0148-sort-list) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
