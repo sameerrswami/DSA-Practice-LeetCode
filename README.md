@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0148-sort-list) |
 ## Divide and Conquer
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0784-letter-case-permutation](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0784-letter-case-permutation) |
