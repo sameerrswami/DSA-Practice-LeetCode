@@ -4,16 +4,14 @@ public:
         stack<char> st;
         for(char c:s){
             if(c=='(' || c=='{' || c=='[') st.push(c);
-            else if((c==')' || c=='}' || c==']')&&st.empty()) st.push(c);
+
             else{
                 if(!st.empty()){
                     if(c==')'&& st.top()=='(') st.pop();
                     else if(c=='}' && st.top()=='{') st.pop();
                     else if(c==']' && st.top()=='[') st.pop();
-                    else{
-                        st.push(c);
-                    }
-                }
+                    else st.push(c);
+                }else st.push(c);
             }
         }
         return st.empty();
