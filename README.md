@@ -342,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0076-minimum-window-substring) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
