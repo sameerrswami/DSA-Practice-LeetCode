@@ -6,8 +6,9 @@ public:
             mp[nums[i]]=i;
         }
         for(int i=0;i<nums.size();i++){
-            if(mp.count(target-nums[i])==1 && i!=mp[target-nums[i]]){
-                return {i,mp[target-nums[i]]};
+            int req = target-nums[i];
+            if(mp.count(req) && i!=mp[req]){
+                return {i,mp[req]};
             }
         }
         return {};
