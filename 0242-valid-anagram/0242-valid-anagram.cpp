@@ -1,8 +1,9 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-        return s==t;
+        vector<int> sf(26,0),tf(26,0);
+        for(char c:s) sf[c-'a']++;
+        for(char c:t) tf[c-'a']++;
+        return sf==tf;
     }
 };
