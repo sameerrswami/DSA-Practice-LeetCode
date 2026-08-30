@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0443-string-compression) |
