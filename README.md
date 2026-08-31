@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0268-missing-number) |
 | [0491-non-decreasing-subsequences](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0491-non-decreasing-subsequences) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -364,4 +368,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0020-valid-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
