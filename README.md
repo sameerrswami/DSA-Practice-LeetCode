@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0509-fibonacci-number) |
@@ -392,4 +394,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
