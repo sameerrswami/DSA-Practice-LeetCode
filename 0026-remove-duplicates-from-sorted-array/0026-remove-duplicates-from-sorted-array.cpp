@@ -4,12 +4,12 @@ public:
         int l=0,r=1;
         while(r<nums.size()){
             if(nums[l]==nums[r]){
-                l++;
+                r++;
+                continue;
             }
             else{
-                swap(nums[l],nums[r]);
+                nums[++l]=nums[r];
             }
-            r++;
         }
         return l+1;
     }
