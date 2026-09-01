@@ -81,7 +81,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0994-rotting-oranges) |
-| [1991-find-the-middle-index-in-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -253,7 +252,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0724-find-pivot-index) |
-| [1991-find-the-middle-index-in-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Memoization
 |  |
 | ------- |
