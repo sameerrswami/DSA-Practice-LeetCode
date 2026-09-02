@@ -1,26 +1,24 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        stack<int> st;
-        ListNode*t = head;
-        int count=0;
-        while(t){
-            count++;
-            t=t->next;
+        ListNode* f=head,*s=head;
+        while(f && f->next) {
+            s=s->next;
+            f=f->next->next;
         }
-        if(count==1)return true;
-        t=head;
-        for(int i=0;i<count/2;i++){
-            st.push(t->val);
-            t=t->next;
+        ListNode* prev=nullptr,*cur=s;
+        while(cur){
+            ListNode* next=cur->next;
+            cur->next=prev;
+            prev=cur;
+            cur=next;
         }
-        if(count%2!=0) t=t->next;
-        while(t){
-            if(st.top() != t->val){
-                return false;
-            }
+        ListNode* t=head;
+        s=prev;
+        while(s){
+            if(t->val != s->val)return false;
+            s=s->next;
             t=t->next;
-            st.pop();
         }
         return true;
     }
