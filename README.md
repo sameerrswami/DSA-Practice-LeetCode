@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0994-rotting-oranges) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0509-fibonacci-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Design
 |  |
 | ------- |
