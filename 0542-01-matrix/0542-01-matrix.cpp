@@ -1,40 +1,34 @@
 class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        int m=mat.size();
-        int n=mat[0].size();
         queue<pair<int,int>> q;
-        for(int i=0;i<mat.size();i++){
-            for(int j=0;j<mat[0].size();j++){
+        int m=mat.size(),n=mat[0].size();
+        for(int  i=0;i<m;i++){
+            for(int j=0;j<n;j++){
                 if(mat[i][j]==0) q.push({i,j});
                 else mat[i][j]=-1;
             }
         }
-        int dist=0;
+        int  d=1;
         while(!q.empty()){
             int size=q.size();
             while(size--){
-                int a=q.front().first;
-                int b=q.front().second;
+                int i=q.front().first;
+                int j=q.front().second;
                 q.pop();
-                if(a+1<m && mat[a+1][b]==-1){
-                    mat[a+1][b]=dist+1;
-                    q.push({a+1,b});
-                }
-                if(a-1>=0 && mat[a-1][b]==-1){
-                    mat[a-1][b]=dist+1;
-                    q.push({a-1,b});
-                }
-                if(b+1<n && mat[a][b+1]==-1){
-                    mat[a][b+1]=dist+1;
-                    q.push({a,b+1});
-                }
-                if(b-1>=0 && mat[a][b-1]==-1){
-                    mat[a][b-1]=dist+1;
-                    q.push({a,b-1});
+                int row[4]={-1,1,0,0};
+                int col[4]={0,0,-1,1};
+                for(int k=0;k<4;k++){
+                    int ni=i+row[k];
+                    int nj=j+col[k];
+                    if(ni<0 || nj<0 || ni>=m || nj>=n) continue;
+                    if(mat[ni][nj]==-1){
+                        mat[ni][nj]=d;
+                        q.push({ni,nj});
+                    }
                 }
             }
-            dist++;
+            d++;
         }
         return mat;
     }
