@@ -2,8 +2,7 @@ class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
         vector<int> pre(nums.size()),suf(nums.size());
-        long long cp=1;
-
+        int cp=1;
         for(int i=0;i<nums.size();i++){
             pre[i]=cp;
             cp*=nums[i];
