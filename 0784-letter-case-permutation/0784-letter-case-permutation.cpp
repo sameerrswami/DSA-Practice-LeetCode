@@ -1,28 +1,22 @@
 class Solution {
 public:
-    void recurse(vector<string> &ans,string &temp,string &s,int i){
-        if(i==s.size()){
-            ans.push_back(temp);
+    vector<string> res;
+    void perms(string &s, int i) {
+        if (i == s.size()) {
+            res.push_back(s);
             return;
         }
-        if(isalpha(s[i])){
-            temp+=tolower(s[i]);
-            recurse(ans,temp,s,i+1);
-            temp.pop_back();
-            temp+=toupper(s[i]);
-            recurse(ans,temp,s,i+1);
-            temp.pop_back();
+        if (isdigit(s[i])) {
+            perms(s, i + 1);
+            return;
         }
-        else{
-            temp+=s[i];
-            recurse(ans,temp,s,i+1);
-            temp.pop_back();
-        }
+        s[i] = tolower(s[i]);
+        perms(s, i + 1);
+        s[i] = toupper(s[i]);
+        perms(s, i + 1);
     }
     vector<string> letterCasePermutation(string s) {
-        vector<string> ans;
-        string temp;
-        recurse(ans,temp,s,0);
-        return ans;
+        perms(s, 0);
+        return res;
     }
 };
