@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0491-non-decreasing-subsequences](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0491-non-decreasing-subsequences) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0617-merge-two-binary-trees) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
@@ -459,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0056-merge-intervals) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
