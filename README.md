@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
