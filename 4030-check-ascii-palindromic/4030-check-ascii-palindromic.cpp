@@ -13,12 +13,12 @@ public:
         return res;
     }
     bool isPalindrome(string s){
-        int i=0;
-        while(i<s.size()/2){
-            if(s[i]!=s[s.size()-i-1]){
+        int i=0,j=s.size()-1;
+        while(i<j){
+            if(s[i]!=s[j]){
                 return false;
             }
-            i++;
+            i++;j--;
         }
         return true;
     }
