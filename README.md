@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0739-daily-temperatures) |
+| [0845-longest-mountain-in-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0994-rotting-oranges](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0994-rotting-oranges) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0443-string-compression) |
+| [0845-longest-mountain-in-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0542-01-matrix) |
+| [0845-longest-mountain-in-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1143-longest-common-subsequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Prefix Sum
 |  |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0204-count-primes) |
+| [0845-longest-mountain-in-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## Number Theory
 |  |
 | ------- |
