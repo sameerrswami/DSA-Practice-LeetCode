@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0437-path-sum-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0547-number-of-provinces) |
 ## Trie
 |  |
 | ------- |
@@ -524,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0037-sudoku-solver) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
