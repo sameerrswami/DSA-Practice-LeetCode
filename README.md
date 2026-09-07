@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [3905-multi-source-flood-fill](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/3905-multi-source-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0994-rotting-oranges) |
+| [3905-multi-source-flood-fill](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/3905-multi-source-flood-fill) |
 ## Matrix
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0994-rotting-oranges) |
+| [3905-multi-source-flood-fill](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/3905-multi-source-flood-fill) |
 ## Two Pointers
 |  |
 | ------- |
