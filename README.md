@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0994-rotting-oranges) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Sorting
 |  |
 | ------- |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
