@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Union-Find
