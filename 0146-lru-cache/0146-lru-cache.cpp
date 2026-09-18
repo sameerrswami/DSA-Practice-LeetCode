@@ -28,8 +28,10 @@ public:
 
     void addNode(Node* newNode) {
         Node* oldNext = head->next;
+
         head->next = newNode;
         newNode->prev = head;
+        
         newNode->next = oldNext;
         oldNext->prev = newNode;
     }
