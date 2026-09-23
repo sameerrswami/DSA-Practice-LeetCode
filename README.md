@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0784-letter-case-permutation](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0784-letter-case-permutation) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
