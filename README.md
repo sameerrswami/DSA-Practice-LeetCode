@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Sorting
 |  |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0784-letter-case-permutation) |
 | [0796-rotate-string](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
 | ------- |
