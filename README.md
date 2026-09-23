@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0994-rotting-oranges](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/0994-rotting-oranges) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sameerrswami/DSA-Practice-LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
